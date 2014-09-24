@@ -1,0 +1,3 @@
+[submodule "modules/ngx_pagespeed"]
+	path = modules/ngx_pagespeed
+	url = https://github.com/pagespeed/ngx_pagespeed.git
